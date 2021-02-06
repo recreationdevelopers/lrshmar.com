@@ -1,4 +1,5 @@
 #mainNav.navbar-shrink .navbar-brand, #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
+  /*color: #44503a!important;*/
 }
 
 #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link, #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
@@ -70,10 +71,6 @@ a, a:hover {
 }
 
 .developer {
-  color: white;
-}
-
-.eapps-instagram-feed-container {
   color: white;
 }
 
